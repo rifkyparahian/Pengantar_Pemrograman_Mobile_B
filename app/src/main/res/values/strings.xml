@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biodata Pemrograman Mobile B</string>
+    <string name="prodi_ilkom_2018">PRODI ILKOM 2018</string>
+    <string name="nama_muh_rifky_parahian_sopian">Nama : Muh Rifky Parahian Sopian</string>
+    <string name="nim_h071181506">NIM : H071181506</string>
+    <string name="ttl_makassar_24_juni_2000">TTL : Makassar, 24 Juni 2000</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+</resources>
